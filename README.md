@@ -1,8 +1,8 @@
 # tester
 
 ### Stage 1 – Project Setup
-Objective: Establish the project structure and development environment.
-Tasks completed
+## Objective: Establish the project structure and development environment.
+## Tasks completed
 Created the GitHub repository “Location_Converter”.
 Added an initial README file.
 Created the first GitHub Project board and feature tickets (iterative).
